@@ -9,7 +9,8 @@ Execute o script allSQL de banco, que está localizado  "./SQL/allSQL.sql".
 ```
 
 ```
-Altere as configurações do arquivo database.php que está localizado "application/config/database.php" de acordo com as suas preferências.
+Altere as configurações do arquivo database.php que está localizado "application/config/database.php" 
+de acordo com as suas preferências.
 ```
 
 ## Recursos
