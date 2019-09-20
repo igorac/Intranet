@@ -16,3 +16,26 @@ O objetivo do sistema é apenas didático, com o intuito de aprendizagem.
 
 ### Perfil
 ![View Listar](assets/Screenshots_Readme/perfil/perfil_view_listar.png)
+![View Adicionar](assets/Screenshots_Readme/perfil/perfil_view_adicionar.png)
+![View Deletar](assets/Screenshots_Readme/perfil/perfil_view_delete.png)
+![View Alterar](assets/Screenshots_Readme/perfil/perfil_view_update.png)
+
+### Endereco
+![View Listar](assets/Screenshots_Readme/endereco/endereco_view_adicionar.png)
+![View Delete](assets/Screenshots_Readme/endereco/endereco_view_delete.png)
+![View Adicionar](assets/Screenshots_Readme/endereco/endereco_view_adicionar.png)
+![View Update](assets/Screenshots_Readme/endereco/endereco_view_update.png)
+
+### Instituto
+![View Listar](assets/Screenshots_Readme/instituto/instituto_view_adicionar.png)
+![View Delete](assets/Screenshots_Readme/instituto/instituto_view_delete.png)
+![View Adicionar](assets/Screenshots_Readme/instituto/instituto_view_adicionar.png)
+![View Update](assets/Screenshots_Readme/instituto/instituto_view_update.png)
+
+### Usuario
+![View Listar](assets/Screenshots_Readme/usuario/usuario_view_listar.png)
+![View Profile](assets/Screenshots_Readme/usuario/usuario_view_profile.png)
+
+### Mensagem
+![View Listar](assets/Screenshots_Readme/mensagem/mailbox_view_listar.png)
+![View Enviar Mensagem](assets/Screenshots_Readme/mensagem/mailbox_view_enviar_mensagem.png)
