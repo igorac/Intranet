@@ -2,6 +2,12 @@
 
 O objetivo do sistema é apenas didático, com o intuito de aprendizagem. O sistema em si não está 100% funcional, possui alguns ajustes a ser melhorados e outros a serem corrigidos.
 
+## Testing
+```
+Execute o script allSQL de banco, que está no que está localizado __(./SQL/allSQL.sql)__ 
+Altere as configurações do arquivo database.php que está localizado __(application/config/database.php)__
+```
+
 ## Recursos
  - [Codeigniter 3.1](https://codeigniter.com/)
  - [Bootstrap 3.3.6](https://bootstrapdocs.com/v3.3.6/docs/getting-started/)
@@ -11,6 +17,7 @@ O objetivo do sistema é apenas didático, com o intuito de aprendizagem. O sist
     * [DataTables 1.10](https://datatables.net/)
  - [CKEditor 4](https://ckeditor.com/ckeditor-4/)
  - [CKFinder 3](https://ckeditor.com/docs/ckfinder/ckfinder3/)
+>>>>>>> HEAD
 
 ## Testar
 
@@ -22,12 +29,14 @@ Execute o script allSQL de banco, que está no que está localizado  "./SQL/allS
 Altere as configurações do arquivo database.php que está localizado "application/config/database.php"
 ```
 
+=======
+>>>>>>> e3129686557cc464dec26e76a38760683dfdefe4
 
 ## Screenshots
 
 ### Perfil
-![View Listar](assets/Screenshots_Readme/perfil/perfil_view_listar.png)
-![View Adicionar](assets/Screenshots_Readme/perfil/perfil_view_adicionar.png)
+![View Listar](assets/Screenshots_Readme/perfil/perfil_view_listar.png?w=512)
+![View Adicionar](assets/Screenshots_Readme/perfil/perfil_view_adicionar.png?w=512)
 ![View Deletar](assets/Screenshots_Readme/perfil/perfil_view_delete.png)
 ![View Alterar](assets/Screenshots_Readme/perfil/perfil_view_update.png)
 
