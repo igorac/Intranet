@@ -2,6 +2,12 @@
 
 O objetivo do sistema é apenas didático, com o intuito de aprendizagem.
 
+## Testing
+```
+Execute o script allSQL de banco, que está no que está localizado __(./SQL/allSQL.sql)__ 
+Altere as configurações do arquivo database.php que está localizado __(application/config/database.php)__
+```
+
 ## Recursos
  - [Codeigniter 3.1](https://codeigniter.com/)
  - [Bootstrap 3.3.6](https://bootstrapdocs.com/v3.3.6/docs/getting-started/)
