@@ -180,7 +180,7 @@
 
 <script src="<?= base_url('assets/js/datatables.net/js/jquery.dataTables.min.js') ?>"></script>
 <script src="<?= base_url('assets/js/datatables.net-bs/js/dataTables.bootstrap.min.js') ?>"></script>
-<script src="<?= base_url('assets/js/jquery-slimscroll/jquery.slimscroll.min.js') ?>"></script>
-<script src="<?= base_url('assets/js/fastclick/lib/fastclick.js') ?>"></script>
+<!-- <script src="<?= base_url('assets/js/jquery-slimscroll/jquery.slimscroll.min.js') ?>"></script>
+<script src="<?= base_url('assets/js/fastclick/lib/fastclick.js') ?>"></script> -->
 <script src="<?= base_url('assets/js/demo.js') ?>"></script>
 <script src="<?= base_url('assets/js/main/instituto.js') ?>"></script>

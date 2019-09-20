@@ -92,6 +92,13 @@ $(function(){
         return $state;
     };
 
+    try {
+        $("#perfil").select2('isOpen');
+        'select2 v4.x';
+    } catch(e) {
+        'select2 v3.x';
+    } 
+
     // Responsável pela exibição do select2 com países
     $('#nacionalidade').select2({
         placeholder: 'Selecione',

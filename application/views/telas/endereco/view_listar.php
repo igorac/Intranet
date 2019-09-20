@@ -212,7 +212,7 @@
 <!-- /.content-wrapper -->
 
 
-<script src="<?= base_url('assets/js/jquery-slimscroll/jquery.slimscroll.min.js') ?>"></script>
-<script src="<?= base_url('assets/js/fastclick/lib/fastclick.js') ?>"></script>
+<!-- <script src="<?= base_url('assets/js/jquery-slimscroll/jquery.slimscroll.min.js') ?>"></script>
+<script src="<?= base_url('assets/js/fastclick/lib/fastclick.js') ?>"></script> -->
 <script src="<?= base_url('assets/js/demo.js') ?>"></script>
 <script src="<?= base_url('assets/js/main/endereco.js') ?>"></script>
