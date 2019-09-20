@@ -4,10 +4,15 @@
 
 <!-- Main Footer -->
 <footer class="main-footer">
-    <!-- To the right -->
-    <div class="pull-right hidden-xs">
-      Anything you want
-    </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2016 <a href="#" class="color-primary">Company</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; <span id="ano-copyright"></span>  <a href="#" class="color-primary">Company</a>.</strong> Todos os direitos Reservados.
 </footer>
+
+<script>
+  
+  var yearNow = new Date();
+  spanElement = document.querySelector('#ano-copyright');
+  spanElement.innerText = yearNow.getFullYear(); 
+
+
+</script>
